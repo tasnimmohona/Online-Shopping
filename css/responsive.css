@@ -1,0 +1,144 @@
+/*============================================
+	      background
+=============================================== */
+
+@media only screen and (min-width:200px) and (max-width: 780px) {
+	.btn-danger.bg-btn {
+		font-size: 12px;
+		height: 40px;
+		width: 130px;
+	}
+	/*background-text*/
+	.background-text h1 {
+		padding-top: 10px;
+		padding-bottom: 10px;
+		font-size: 40px;
+		color: #000000;
+	}
+	.background-text {
+		padding-top: 70px;
+		padding-bottom: 100px;
+	}
+}
+
+
+/*============================================
+                common-header
+===============================================*/
+
+@media only screen and (min-width:200px) and (max-width: 780px) {
+	.common-header h3 {
+		margin-bottom: 40px;
+		font-size: 30px;
+	}
+}
+
+
+/*============================================
+	       feature product
+=============================================== */
+
+@media only screen and (min-width:200px) and (max-width: 780px) {
+	#featured-product {
+		padding-top: 80px;
+		padding-bottom: 80px;
+	}
+}
+
+
+/*============================================
+                50% off
+===============================================*/
+
+@media only screen and (min-width:200px) and (max-width: 780px) {
+	.offer-left {
+		margin-top: 80px;
+		margin-bottom: 80px;
+	}
+	.offer-left span {
+		font-size: 60px;
+	}
+	.offer-left p {
+		font-size: 30px;
+		margin-bottom: 20px;
+	}
+}
+
+
+/*============================================
+                popular
+===============================================*/
+
+@media only screen and (min-width:200px) and (max-width: 780px) {
+	#popular-product {
+		padding-top: 100px;
+		padding-bottom: 80px;
+	}
+}
+
+
+/*============================================
+                box
+===============================================*/
+
+@media only screen and (min-width:200px) and (max-width: 780px) {
+	.box {
+		margin-top: 20px;
+	}
+}
+
+
+/*============================================
+                trending
+===============================================*/
+
+@media only screen and (min-width:200px) and (max-width: 780px) {
+	#trending {
+		padding-top: 80px;
+		padding-bottom: 80px;
+	}
+}
+
+
+/*============================================
+                journal
+===============================================*/
+
+@media only screen and (min-width:200px) and (max-width: 780px) {
+	.journal-text h5 {
+		font-size: 16px;
+		margin-top: 12px;
+	}
+	.journal-text span {
+		font-size: 11px;
+	}
+	.journal-text i {
+		font-size: 12px;
+		padding-bottom: 50px;
+	}
+}
+
+
+/*============================================
+                follow
+===============================================*/
+
+@media only screen and (min-width:200px) and (max-width: 780px) {
+	#follow {
+		padding-bottom: 80px;
+	}
+}
+
+
+/*============================================
+                footer
+===============================================*/
+
+@media only screen and (min-width:200px) and (max-width: 780px) {
+	#footer {
+		padding-top: 60px;
+	}
+	.copyright {
+		padding-top: 40px;
+	}
+}
